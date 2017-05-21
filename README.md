@@ -12,6 +12,7 @@ https://github.com/talliya/DogMeetProject/wiki
 
 <br>
 # Autorzy
+<br>
 Jakub Piekarczyk<br>
 Numer albumu 181356<br>
 KrZUIs2011, Infornaqtyka stosowana<br>
